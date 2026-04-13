@@ -31,7 +31,7 @@ body {
   font-family: "Aptos", "Segoe UI Variable Text", "Trebuchet MS", sans-serif;
   color: var(--text);
   background:
-    radial-gradient(circle at top left, rgba(42, 181, 176, 0.16), transparent 30%),
+    radial-gradient(circle at top left, rgba(39, 104, 245, 0.16), transparent 30%),
     linear-gradient(180deg, #f7fcfe 0%, #eef7fb 48%, #f5fbff 100%);
 }
 
